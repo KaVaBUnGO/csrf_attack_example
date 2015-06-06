@@ -1,0 +1,1 @@
+insert into vote(id, name, value) VALUES (1, 'cat', 0);
